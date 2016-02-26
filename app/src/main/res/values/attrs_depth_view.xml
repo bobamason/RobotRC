@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="DepthView">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="depthReadingColor" format="color"/>
+        <attr name="depthColor" format="color"/>
+        <attr name="units" format="string"/>
+        <attr name="max" format="integer"/>
+    </declare-styleable>
+</resources>

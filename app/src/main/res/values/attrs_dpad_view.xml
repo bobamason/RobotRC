@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="D_PadView">
+        <attr name="padColor" format="color"/>
+        <attr name="touchedColor" format="color"/>
+        <attr name="arrowColor" format="color"/>
+    </declare-styleable>
+</resources>
